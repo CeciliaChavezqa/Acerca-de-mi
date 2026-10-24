@@ -85,6 +85,6 @@ Me entusiasma aplicar mi experiencia en sistemas complejos para robustecer el so
 
 ¡Estoy abierta a nuevas oportunidades laborales y colaboraciones!
 
-* 💼 **LinkedIn:** [Cecilia Mena](https://www.linkedin.com/in/ceciliamena-qa-tecnologia-automotriz/)
-* 📧 **Email:** [tu-email@ejemplo.com](mailto:tu-ceciliachavezqa@gmail.com)
+* 💼 **LinkedIn:** [Cecilia Mena Chavez](https://www.linkedin.com/in/ceciliamena-qa-tecnologia-automotriz/)
+* 📧 **Email:** [Cecilia Mena Chavez](mailto:tu-ceciliachavezqa@gmail.com)
 * 🌐 **Ubicación:** Querétaro (Disponible para proyectos locales y remotos)
