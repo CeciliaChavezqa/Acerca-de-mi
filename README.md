@@ -45,12 +45,19 @@ Me entusiasma aplicar mi experiencia en sistemas complejos para robustecer el so
 ## Herramientas y Tecnologías 🔧
 
 **Seguridad Funcional Automotriz:**  ISO 26262 | Ciclo de Vida de Seguridad Funcional | HARA | ASIL | FMEA | FTA .
+
 **Calidad y Análisis de Fallas:** IATF 16949 | Análisis de Causa Raíz | Identificación de Riesgos | Análisis de Defectos | Mejora Continua | 5S | Kaizen.
+
 **Gestión de Requisitos:** Documentación Técnica | Gestión y Trazabilidad de Requisitos | Matrices de Seguimiento | Gestión del Ciclo de Vida de Defectos.
+
 **Pruebas y Validación de Software:** Pruebas Funcionales | Pruebas E2E| Caja Negra y Caja Gris | Pruebas de Regresión | Diseño y Ejecución de Casos de Prueba | Pruebas de API REST. 
+
 **Software y Herramientas:** Microsoft Excel | Jira | Postman | Firebase Console | Android Studio | Git y GitHub. 
+
 **Programación y Automatización:** Python | Selenium WebDriver | Page Object Model (POM) | PyTest | n8n.
+
 **Bases de Datos:** SQL | PostgreSQL | MySQL | Firebase (NoSQL). 
+
 **Metodologías:** Agile/Scrum | Análisis de Causa Raíz | Mejora Continua.
 
 
